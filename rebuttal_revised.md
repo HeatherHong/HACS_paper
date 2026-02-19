@@ -1,4 +1,4 @@
-# Rebuttal (No-Additional-Experiment Version)
+# Rebuttal Letter
 
 We sincerely thank the reviewer for the thoughtful and constructive feedback. We are encouraged that the reviewer finds the problem formulation clear and recognizes the practical relevance of HASC. Below we address the raised concerns with precise references to our manuscript and strengthen the methodological rigor of our presentation.
 
